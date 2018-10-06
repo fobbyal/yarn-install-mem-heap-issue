@@ -4,7 +4,7 @@
 
 1. clone repo
 2. yarn install
-3. yarn add webpack@4.2.0
+3. yarn add webpack@4.20.2
 
 
 This issue is reproduced on both OSX mojave and ArchLinux (updated with in the month) both using the latest yarn@1.10.1.
