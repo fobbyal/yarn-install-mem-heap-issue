@@ -1,0 +1,13 @@
+venv
+*.pyc
+.env
+*.swp
+/node_modules/*
+/static
+/index.html
+.DS_Store
+.vscode/*
+/cypress/videos
+/coverage
+yarn-error.log
+*.orig
